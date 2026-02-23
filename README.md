@@ -4,8 +4,8 @@
 - 🌱 Estudando Python
 - 😄 Pronouns: ele/dele
 
-![Bernardo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernardo3012&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BErnardo3012&layout=compact&theme=radical&img_widith=50%)
+![Bernardo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernardo-Santos1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Santos1&layout=compact&theme=radical&img_widith=50%)
 ##
 
 <div style="display: inline_block"><br>
