@@ -3,6 +3,7 @@
 - Estagiário Full-Stack focado em soluções eficientes.
 - 🎓 Estudante de Ciência da Computação na UFRJ 
 - 🌱 Aprimorando projetos em Python.
+- ☕ Desenvolvendo e melhorando projetos em Java
 - 😄 Pronomes: Ele/Dele.
 
 ---
